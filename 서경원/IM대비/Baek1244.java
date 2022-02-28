@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class Baek1244 {
+public class Baek1244 {//1
     public static void main(String[] args) throws Exception{
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

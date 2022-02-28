@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Baek7568 {
+public class Baek7568 {//1
     public static void main(String[] args) throws Exception{
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
