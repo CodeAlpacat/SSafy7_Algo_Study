@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Baek2116 {
+public class Baek2116 {//1
 
     public static int N;
     public static int[] offside = {5, 3, 4, 1, 2, 0};

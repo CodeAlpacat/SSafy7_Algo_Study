@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeMap;
 
-public class Baek16472 {
+public class Baek16472 {//1
     public static void main(String[] args) throws Exception{
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
