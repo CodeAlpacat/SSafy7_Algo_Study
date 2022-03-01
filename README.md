@@ -1,1 +1,0 @@
-# SSafy7_Algo_Study
